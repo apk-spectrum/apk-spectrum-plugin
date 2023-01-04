@@ -329,8 +329,8 @@ Manifest file structure
       
 -->
 
-<manifest package="com.apkscanner.plugin.QimaiSearcher" versionCode="1" versionName="1.0" minScannerVersion="2.4.0">
-    <plugin label="@plugin_name" icon="QimaiIcon.png" description="@plugin_description" >
+<manifest package="com.apkscanner.plugin.QimaiSearcher" versionCode="2" versionName="1.0" minScannerVersion="2.4.0">
+    <plugin enabled="false" label="@plugin_name" icon="QimaiIcon.png" description="@plugin_description" >
         <package-searcher-linker
         	target="package"
         	url="https://www.qimai.cn/search/android/search/%TARGET%" 

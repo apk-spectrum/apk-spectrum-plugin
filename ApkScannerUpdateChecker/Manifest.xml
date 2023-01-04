@@ -308,7 +308,7 @@ Manifest file structure
       
 -->
 
-<manifest package="com.apkscanner.plugin.apkscanner.updatechecker" versionCode="1" versionName="1.0" minScannerVersion="2.4.0">
+<manifest package="com.apkscanner.plugin.apkscanner.updatechecker" versionCode="2" versionName="1.0" minScannerVersion="2.4.0">
     <plugin label="@plugin_name" icon="ApkScannerIcon.png" useNetworkSetting="true" useConfigurationSetting="true" description="@plugin_description" >
         <update-checker-linker
         	targetPackageName="com.apkscanner"

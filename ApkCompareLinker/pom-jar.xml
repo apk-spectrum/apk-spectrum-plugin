@@ -9,6 +9,7 @@
     </parent>
     <packaging>jar</packaging>
     <artifactId>ApkCompareLinker</artifactId>
+    <version>1.0</version>
     <name>ApkCompareLinker</name>
     <description>APK Compare Linker</description>
     <dependencies>

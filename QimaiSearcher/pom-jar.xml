@@ -9,6 +9,7 @@
     </parent>
     <packaging>jar</packaging>
     <artifactId>QimaiSearcher</artifactId>
+    <version>1.0</version>
     <name>QimaiSearcher</name>
     <description>Qimai Searcher</description>
 </project>

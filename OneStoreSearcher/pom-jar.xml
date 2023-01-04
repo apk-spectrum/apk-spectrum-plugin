@@ -9,6 +9,7 @@
     </parent>
     <packaging>jar</packaging>
     <artifactId>OneStoreSearcher</artifactId>
+    <version>1.0</version>
     <name>OneStoreSearcher</name>
     <description>One Store Searcher</description>
 </project>

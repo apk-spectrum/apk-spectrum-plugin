@@ -329,8 +329,8 @@ Manifest file structure
       
 -->
 
-<manifest package="com.apkscanner.plugin.OneStoreSearcher" versionCode="1" versionName="1.0" minScannerVersion="2.4.0">
-    <plugin label="@plugin_name" icon="OneStoreIcon.png" description="@plugin_description" >
+<manifest package="com.apkscanner.plugin.OneStoreSearcher" versionCode="2" versionName="1.0" minScannerVersion="2.4.0">
+    <plugin enabled="false" label="@plugin_name" icon="OneStoreIcon.png" description="@plugin_description" >
         <package-searcher-linker
         	target="label"
         	url="https://m.onestore.co.kr/mobilepoc/search/integrateSearch.omp?integrateQuery=%TARGET%"

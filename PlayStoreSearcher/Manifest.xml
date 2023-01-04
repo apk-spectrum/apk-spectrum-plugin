@@ -329,7 +329,7 @@ Manifest file structure
       
 -->
 
-<manifest package="com.apkscanner.plugin.PlayStoreSearcher" versionCode="1" versionName="1.0" minScannerVersion="2.4.0">
+<manifest package="com.apkscanner.plugin.PlayStoreSearcher" versionCode="2" versionName="1.0" minScannerVersion="2.4.0">
     <plugin label="@plugin_name" icon="PlayStoreIcon.png" description="@plugin_description" >
         <package-searcher-linker
         	target="package"

@@ -9,6 +9,7 @@
     </parent>
     <packaging>jar</packaging>
     <artifactId>PlayStoreSearcher</artifactId>
+    <version>1.0</version>
     <name>PlayStoreSearcher</name>
     <description>>Google Play Store Searcher</description>
 </project>
